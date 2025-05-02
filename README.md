@@ -22,7 +22,7 @@ A simple PHP & MySQL-based login/register system with role-based access control 
 
 ## 📁 Folder Structure
 
-''' pgsql
+```pgsql
 📁 PHPAuthSystem/
 ├── 📄 index.php
 ├── 📄 landr.php
@@ -35,4 +35,5 @@ A simple PHP & MySQL-based login/register system with role-based access control 
 │   └── 📄 style.css
 ├── 📁 js/
 │   └── 📄 main.js
-'''
+
+```
