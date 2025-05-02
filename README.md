@@ -6,9 +6,7 @@ A simple PHP & MySQL-based login/register system with role-based access control 
 
 - User registration & login
 - Role-based redirection (admin & user dashboards)
-- Secure session management
-- Clean UI with CSS styling
-- Easy to configure
+
 
 ## 🚀 How to Run
 
