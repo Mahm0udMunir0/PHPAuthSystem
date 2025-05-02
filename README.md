@@ -22,17 +22,15 @@ A simple PHP & MySQL-based login/register system with role-based access control 
 
 ## 📁 Folder Structure
 
-PHPAuthSystem/
-│
-├── index.php
-├── landr.php
-├── logout.php
-├── admin_page.php
-├── user_page.php
-├── config.php
-├── users_db.sql
-│
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
+📁 PHPAuthSystem/
+├── 📄 index.php
+├── 📄 landr.php
+├── 📄 logout.php
+├── 📄 admin_page.php
+├── 📄 user_page.php
+├── 📄 config.php
+├── 📄 users_db.sql
+├── 📁 css/
+│   └── 📄 style.css
+├── 📁 js/
+│   └── 📄 main.js
