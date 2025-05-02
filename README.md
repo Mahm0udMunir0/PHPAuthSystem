@@ -12,11 +12,14 @@ A simple PHP & MySQL-based login/register system with role-based access control 
 
 1. Open **phpMyAdmin** and import the `users_db.sql` file to create the database and table.
 2. Edit the `config.php` file with your local database credentials:
+
    ```php
    $host = "localhost";
    $user = "root";
    $pass = "";
    $db   = "users_db";
+
+
 ## 📁 Folder Structure
 
 PHPAuthSystem/
